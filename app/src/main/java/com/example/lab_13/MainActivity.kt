@@ -62,6 +62,8 @@ fun LabScreen(modifier: Modifier = Modifier) {
         AnimatedVisibilityExercise()
         HorizontalDivider(modifier = Modifier.fillMaxWidth())
         AnimateColorExercise()
+        HorizontalDivider(modifier = Modifier.fillMaxWidth())
+        AnimateSizePositionExercise()
     }
 }
 
