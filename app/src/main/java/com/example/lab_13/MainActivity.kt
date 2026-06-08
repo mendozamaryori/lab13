@@ -66,6 +66,8 @@ fun LabScreen(modifier: Modifier = Modifier) {
         AnimateSizePositionExercise()
         HorizontalDivider(modifier = Modifier.fillMaxWidth())
         AnimatedContentExercise()
+        HorizontalDivider(modifier = Modifier.fillMaxWidth())
+        GamePrototypeScreen()
     }
 }
 
